@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377063955350",
+    "project_id": "goinvest-90853",
+    "storage_bucket": "goinvest-90853.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377063955350:android:ff1922bbbf100ff264dbb7",
+        "android_client_info": {
+          "package_name": "com.example.go_invest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkIQfsUDPInL9Wk2vsClfOASvYiAiwJeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
